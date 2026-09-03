@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>PlugVault</title>
+    <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
+    <item>
+      <title>PlugVault 0.2</title>
+      <pubDate>Thu, 03 Sep 2026 17:11:28 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.2</h2><ul><li>PlugVault now updates itself: a weekly check, Check for Updates… in the PlugVault menu, and an Updates section in Settings. Nothing installs until you click Install.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.2/PlugVault-0.2.dmg" sparkle:edSignature="JlfYWM7TP8BOPR0z/HX3mONxzbGpc9OdN2PdOCy4+/agube9lS7wp6DV5mFKd9RSqWfk5PdTHrFp70KQRcFLDA==" length="12097030" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
