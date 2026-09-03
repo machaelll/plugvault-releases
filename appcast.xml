@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.3</title>
+      <pubDate>Thu, 03 Sep 2026 19:27:52 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.3</h2><ul><li>Sound Libraries tab: the sample content your plug-ins load — Kontakt libraries, Omnisphere&#x27;s STEAM folder, UVI soundbanks, Steinberg, Waves, Roland, IK, Toontrack and more — with size, vendor, player and drive, grouped by vendor with totals. Move one to the Trash to reclaim its space.</li><li>Libraries kept on another drive: if a player such as Kontakt or Omnisphere is installed but no libraries are found, PlugVault asks where they are. Add any folder and it is searched.</li><li>Backups now list your sound libraries and where they lived, and comparing with a backup shows the ones missing on this Mac.</li><li>Fixed: clicking All Plug-ins (and All DAWs) in the sidebar now clears the selected group.</li><li>The first tab is now called Plug-ins, and Sound Libraries is ⌘5.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.3/PlugVault-0.3.dmg" sparkle:edSignature="IDrptJL90+1XWf/NnOa21EztsKJKPfxYQtMG/jOosjvLCCxeXIx9/PnAbFMePUuPrOM1mEXNwotH4s5yJjxJBA==" length="10935443" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.2</title>
       <pubDate>Thu, 03 Sep 2026 17:11:28 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
