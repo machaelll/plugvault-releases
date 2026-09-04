@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.7</title>
+      <pubDate>Fri, 04 Sep 2026 05:03:36 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.7</h2><ul><li>Install and Relaunch in the update window now quits and relaunches PlugVault on its own; before, the app had to be quit by hand. (Updating from 0.6 still needs that one manual quit; from 0.7 on it is automatic.)</li><li>A revoked key, or a seat freed from another Mac, now takes effect the next time PlugVault opens, or within a few hours while it is running. Before, it could take up to two weeks.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.7/PlugVault-0.7.dmg" sparkle:edSignature="4i2sob7/F/YDLcERkXK6rLNkEd6qXh5MENBE6dlVvIppUtLiE7dWXDm00npxtRwPc9HK783L2ycVTBDdeWHRDg==" length="11285392" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.6</title>
       <pubDate>Fri, 04 Sep 2026 04:43:46 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
