@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.8</title>
+      <pubDate>Fri, 04 Sep 2026 06:19:50 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.8</h2><ul><li>An uninstall queue: right-click plug-ins and choose Add to Uninstall Queue, review the list from the Queue button in the toolbar, then Start Uninstalling goes through them one at a time, each with its own confirmation — licence reminders, leftover files, the administrator prompt — with Skip and Stop Queue at every step. The queue is kept until you clear it.</li><li>Comparing with a backup or another Mac opens in its own resizable window. Plug-ins are grouped by manufacturer and collapsed, with colored counts on each manufacturer, and manufacturers with something to install come first. Selecting a plug-in shows a pane with the versions on both Macs and the best way to get it: the vendor&#x27;s own installer app if it is on this Mac, otherwise the vendor&#x27;s website, plus a web search and store links.</li><li>Sound Libraries now finds Spitfire Audio libraries — BBC Symphony Orchestra, Abbey Road One, Originals, LABS packs and the rest — through the Spitfire app&#x27;s own records, wherever they were installed.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.8/PlugVault-0.8.dmg" sparkle:edSignature="oq8WEjrqE2Nz+NVa3RvVT7TQbLTvRyQdY/Njs7jbXMY2BJLK9OydMJr/GD8YZtkas6WmtI6OBuG54Ao4Szr0Dw==" length="13533393" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.7</title>
       <pubDate>Fri, 04 Sep 2026 05:03:36 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
