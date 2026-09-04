@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.13</title>
+      <pubDate>Fri, 04 Sep 2026 20:50:42 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.13</h2><ul><li>Fixed: Put Back reported &quot;administrator permission was refused&quot; for plug-ins in system folders even after the password was entered. macOS keeps every app&#x27;s shell out of the Trash, so PlugVault now lets Finder lift the item out of the Trash and then moves it into the system folder with one password for the whole batch.</li><li>Removing plug-ins from system folders uses the same route in reverse, so the exact Trash location is always known and the password is asked once per batch.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.13/PlugVault-0.13.dmg" sparkle:edSignature="Um4LVy5mgI+Joa//J2D3TXYUFvfs4fOoZP9yN6R7WcpBz1BgQEb2umEGaOznVtzByWAFOWdDc/cOMZsFc2LKCg==" length="13635983" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.12</title>
       <pubDate>Fri, 04 Sep 2026 20:38:55 +0000</pubDate>
       <sparkle:version>16</sparkle:version>
