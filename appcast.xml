@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.6</title>
+      <pubDate>Fri, 04 Sep 2026 04:43:46 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.6</h2><ul><li>PlugVault now needs a license key. Enter the key you were given when the app opens; it is tied to this Mac. Settings › License shows which Macs use the license&#x27;s seats, frees a seat from any of them, and can deactivate this Mac before you sell or wipe it.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.6/PlugVault-0.6.dmg" sparkle:edSignature="55TbQWXQ9zIsuhbCqlN02vxfgEhAsj5maaWxfuyZbsTY7izbSnZU6mv1l/UU7ke1NhCEPF/zVcpeTcx9qCW3Dw==" length="11277010" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.5</title>
       <pubDate>Thu, 03 Sep 2026 20:14:55 +0000</pubDate>
       <sparkle:version>9</sparkle:version>
