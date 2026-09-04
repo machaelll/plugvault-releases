@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.12</title>
+      <pubDate>Fri, 04 Sep 2026 20:38:55 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.12</h2><ul><li>Removing or putting back plug-ins that live in system folders asks for your password once for the whole batch, and macOS remembers it for a few minutes, so a queue of uninstalls or a put-back of several plug-ins no longer asks for every one.</li><li>Fixed: Put Back could fail for plug-ins that had needed a password to remove. PlugVault now records exactly where each one went in the Trash.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.12/PlugVault-0.12.dmg" sparkle:edSignature="6GedBXu2gpJouWD4MWDmjxTQC4VcjmCfYIYhe3DJXo6+UyROFwkDBUmCbsgolPcxv6peL16+D6gRJf5iaMGuBw==" length="13626544" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.11</title>
       <pubDate>Fri, 04 Sep 2026 18:24:21 +0000</pubDate>
       <sparkle:version>15</sparkle:version>
