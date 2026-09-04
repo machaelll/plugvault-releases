@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.10</title>
+      <pubDate>Fri, 04 Sep 2026 17:56:49 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.10</h2><ul><li>PlugVault now checks for a new version quietly every time it opens, as well as weekly, so important fixes arrive the same day. Nothing appears unless there is an update, and nothing installs until you say so.</li><li>Fixed: macOS asked again for permission to access folders or drives after every update. Builds are now signed with one stable identity, so a permission you grant is kept. (One more prompt after this update, then no more.)</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.10/PlugVault-0.10.dmg" sparkle:edSignature="83k+lNgOqZYZ3278mLUe5y96k+SBJXKnzu9yyDYBFSiDwXZUvixUU69AitQdG/roRzb6sZZ0Dzzlp3GW5j7+Aw==" length="13551036" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.9</title>
       <pubDate>Fri, 04 Sep 2026 17:43:17 +0000</pubDate>
       <sparkle:version>13</sparkle:version>
