@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.11</title>
+      <pubDate>Fri, 04 Sep 2026 18:24:21 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.11</h2><ul><li>Show All from a manufacturer now scrolls the sidebar to that manufacturer and marks it clearly, in bold with a colored icon, even while the list is not focused.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.11/PlugVault-0.11.dmg" sparkle:edSignature="pfBpceuMSxEf80bplWnKoJcbTh/pXXE0znxYze3DVDbRoi/lMgQY7xkFZCEK2HwicOh91kUmiWdQY9Uh4OftAw==" length="13563242" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.10</title>
       <pubDate>Fri, 04 Sep 2026 17:56:49 +0000</pubDate>
       <sparkle:version>14</sparkle:version>
