@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.16</title>
+      <pubDate>Sat, 05 Sep 2026 21:34:44 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.16</h2><ul><li>PlugVault is now signed with Machael Studio&#x27;s Apple Developer ID and notarized by Apple. The download opens like any other app, with no right-click › Open step, and this update is the last one that asks again for folder and drive permissions.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.16/PlugVault-0.16.dmg" sparkle:edSignature="7nYvvwFxNuOUFdMTt04eR2tKyKOOUhefAjWuDmT5XLHTujB/Rhgo7A80aL468CXwZnjGNFMJD+IPrZobKPLxCg==" length="13695088" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.15</title>
       <pubDate>Fri, 04 Sep 2026 21:11:39 +0000</pubDate>
       <sparkle:version>19</sparkle:version>
