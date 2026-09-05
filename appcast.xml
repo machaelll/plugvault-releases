@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.19</title>
+      <pubDate>Sat, 05 Sep 2026 23:52:14 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.19</h2><ul><li>Every permission macOS asks for is now explained: in the system prompt itself, in Help › Why PlugVault asks for permissions, on the welcome screen, in Settings › This Mac, and on the support page. PlugVault never needs Full Disk Access.</li><li>Updates: the ⓘ next to “may be superseded” explains what PlugVault looked at and what the result means, with a link to the vendor.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.19/PlugVault-0.19.dmg" sparkle:edSignature="8ybAzlJY5C1zLdDI2H4+x3YHgUhwuiJ8oW0do/lV3hI+DPGQhMDqQAolpyevNXP/qvPdYTFpnFNG8spaM5VwDQ==" length="13100563" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.18</title>
       <pubDate>Sat, 05 Sep 2026 23:10:19 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
