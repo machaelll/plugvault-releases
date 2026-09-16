@@ -4,6 +4,15 @@
     <title>PlugVault</title>
     <link>https://github.com/machaelll/plugvault-releases/releases/download</link>
     <item>
+      <title>PlugVault 0.20</title>
+      <pubDate>Wed, 16 Sep 2026 04:08:34 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>PlugVault 0.20</h2><ul><li>macOS 12 Monterey: PlugVault crashed the moment it opened, and again when switching between Plug-ins, DAWs, Libraries, Updates and History; the sidebar also sat halfway down its pane. All three fixed; PlugVault now runs on 12 the way it does on newer systems.</li><li>Sound libraries: the Add Folder button stays visible once libraries were found, so a drive or folder can be added at any time.</li><li>PlugVault on your iPhone: turn on Settings › iPhone and this Mac&#x27;s plug-ins, DAWs and sound libraries appear in the new PlugVault iPhone app, through your private iCloud. Look up what is installed in the studio from anywhere.</li></ul>]]></description>
+      <enclosure url="https://github.com/machaelll/plugvault-releases/releases/download/v0.20/PlugVault-0.20.dmg" sparkle:edSignature="/IV/IBk8AGjVx/d5W4cvNzZgaC81BKDn7jv24YiowN1hTldRPRMc2utHI03erpvjsaXCqbosEGCajltxwv8DCA==" length="13170598" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>PlugVault 0.19</title>
       <pubDate>Sat, 05 Sep 2026 23:52:14 +0000</pubDate>
       <sparkle:version>23</sparkle:version>
